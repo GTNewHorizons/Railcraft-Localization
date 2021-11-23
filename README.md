@@ -1,4 +1,6 @@
-## Welcome to Railcraft's Localization repository on GitHub
+## Welcome to Railcraft's Localization repository on GitHub (DEPRECATED)
+
+__THIS REPOSITORY IS DEPRECATED! ADD LANG ENTRIES TO RAILCRAFT ITSELF!__
 
 ### Submitting and editing a language file
 If you intend to submit or edit a language file, please be aware that the file must be in UTF-8 encoding without Byte-Order-Marks(BOM).
